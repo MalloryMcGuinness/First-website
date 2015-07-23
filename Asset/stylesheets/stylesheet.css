@@ -1,0 +1,29 @@
+body {
+	width: 900px;
+	margin: auto;
+	background-color: black;
+}
+
+h1 {
+	color: yellow;
+}
+
+h2 {
+	color: yellow;
+}
+
+p {
+	color: violet;
+	text-algin: center;
+}
+
+ul {
+	color: chartreuse;
+	text-aligh: center;
+}
+
+ ol {
+ 	color:red;
+ 	text-decoration: underline;
+ }
+
